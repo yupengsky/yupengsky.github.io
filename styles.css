@@ -175,9 +175,17 @@ figcaption {
 }
 
 .subtitle {
-  margin-bottom: 0.8rem;
+  margin-bottom: 0.25rem;
   color: var(--red);
   font-weight: 760;
+}
+
+.profile-block .last-updated {
+  margin-bottom: 0.85rem;
+  color: #8b958a;
+  font-size: 0.78rem;
+  font-weight: 500;
+  line-height: 1.35;
 }
 
 .profile-block h2 {
